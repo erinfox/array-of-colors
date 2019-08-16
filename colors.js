@@ -138,4 +138,4 @@
     {colorName: 'LightSlateGray', hex: '#778899', colorGroup: 'grey'},
     {colorName: 'SlateGray', hex: '#708090', colorGroup: 'grey'},
     {colorName: 'DarkSlateGray', hex: '#2F4F4F', colorGroup: 'grey'},
-    {colorName: 'Black', hex: '#000000', ', colorGroup: 'black'}]
+    {colorName: 'Black', hex: '#000000', colorGroup: 'black'}]
